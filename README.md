@@ -1,4 +1,5 @@
-![SpaceInvadersphoto](https://github.com/Saramiss7/Space-Invaders/tree/main/Space_Invaders/Imatges/SpaceInvaders.png?raw=true)
+![SpaceInvadersphoto](https://github.com/Saramiss7/Space-Invaders/raw/main/Space_Invaders/Imatges/SpaceInvaders.png?raw=true)
+
 ## 🚀 DESCRIPTION (ENGLISH)
 
 This project is a recreation of the classic **Space Invaders** game, developed in **C#** using the **Heirloom** library, which simplifies the creation of games with custom graphics.
