@@ -1,4 +1,4 @@
-![SpaceInvadersphoto](https://github.com/Saramiss7/Space-Invaders/raw/main/Space_Invaders/Imatges/SpaceInvaders.png?raw=true)
+![SpaceInvadersphoto](https://github.com/Saramiss7/Space-Invaders/raw/main/Space.png?raw=true)
 
 ## 🚀 DESCRIPTION (ENGLISH)
 
